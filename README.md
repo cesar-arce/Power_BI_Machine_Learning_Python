@@ -1,5 +1,7 @@
 # Integrated Python Seaborn Graphs with Power BI for Machine Learning
 
+### Dashboard Link: https://app.powerbi.com/groups/me/reports/5acdd1ce-0263-4b8a-8ca7-c11246bea5e5/ReportSection19acfa9c122cbf257269?experience=power-bi
+
 ![Screenshot 2024-09-24 094757](https://github.com/user-attachments/assets/483661cf-84ae-4d75-b428-7e81acd71791)
 
 When analyzing Machine Learning models, it's essential to visualize complex patterns and relationships between data features. While Power BI is a powerful tool for interactive business intelligence and dashboarding, integrating Python, particularly Seaborn, allows for deeper statistical visualizations. Here's why I chose to use Seaborn in Python for this Power BI project:
