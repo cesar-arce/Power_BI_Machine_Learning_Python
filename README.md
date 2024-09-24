@@ -1,4 +1,4 @@
-# Integrated Python Seaborn Graphs with Power BI for Machine Learning
+# Integrating Python Seaborn Graphs with Power BI for Machine Learning
 
 ### Dashboard Link: https://app.powerbi.com/groups/me/reports/5acdd1ce-0263-4b8a-8ca7-c11246bea5e5/ReportSection19acfa9c122cbf257269?experience=power-bi
 
